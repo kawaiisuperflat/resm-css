@@ -1,11 +1,12 @@
-body {
-  background-color: white
+
+body{
+  background color: pink
+    font-size: 24px
+  font-family: Arial, helvetica, sans-serif;
 }
-  font-size: 24px
-  font-family: Arial, helvetica, sans-serif;}
 
 h1{
-  color: black;
+  color: #b840ff;
   font-size: 24px
   font-family: Arial, helvetica, sans-serif;
 }
